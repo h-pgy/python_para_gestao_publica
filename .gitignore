@@ -4,6 +4,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+*.gem
+Gemfile.lock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
